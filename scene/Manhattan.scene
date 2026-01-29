@@ -1,0 +1,20 @@
+CAMERA
+position 3.9 0.4 -7.8
+Screen 2.9 1.4 -8.8, 2 0 0, 0 -2 0
+resolution 720 720
+Antialiasing False
+
+OBJECT
+position 0 0 -10
+filename scene/Manhattan.obj
+color 220 255 255
+
+LIGHT_A
+position 0 -0 0
+intensity 0.4
+color 255 255 255
+
+LIGHT_D
+direction 1 3 -3
+intensity 0.6
+color 255 255 200
